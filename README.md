@@ -26,10 +26,6 @@ The Online Expense Tracker is a web-based application that allows users to manag
   - `register.jsp`: Registration page.
   - `add_expense.jsp`, `view_expense.jsp`: Pages for managing expenses.
 
-## Installation
-
-https://github.com/YaswanthKan/Expensetracker/tree/main
-
 ### Prerequisites
 - **Java 8+**
 - **Maven 3+**
